@@ -1,0 +1,19 @@
+{
+  "name": "md5-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^4.0.3",
+    "glob": "^7.1.2",
+    "md5-file": "^3.2.3",
+    "path": "^0.12.7"
+  }
+}
